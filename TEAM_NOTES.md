@@ -6,3 +6,5 @@ Created Flashcard file for the actual flashcards UI, I didnt get to figure out h
 ## Try to create something where you can add several cards to the screen and actually interact with them.
 
 Also use the lyceum code we worked on in the lectures (check week threes stuff specifically, thats what i used)
+
+I attempted making a restart function to be able to restart the flashcards game for another round.
